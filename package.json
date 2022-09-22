@@ -6,6 +6,14 @@
   "scripts": {
     "sass": "sass --watch HelloYou/sass/styles.scss:HelloYou/styles.css "
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com:Helvlaska/HelloYou.git"
+  },
   "author": "Claire Castan",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Helvlaska/HelloYou/issues"
+  },
+  "homepage": "https://github.com/Helvlaska/HelloYou#readme"
 }
