@@ -1,0 +1,11 @@
+{
+  "name": "helloyou",
+  "version": "1.0.0",
+  "description": "site web test",
+  "main": "index.js",
+  "scripts": {
+    "sass": "sass --watch HelloYou/sass/styles.scss:HelloYou/styles.css "
+  },
+  "author": "Claire Castan",
+  "license": "ISC"
+}
